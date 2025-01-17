@@ -1,1 +1,5 @@
 Here is an example of update text. Remember that it doesn't matter what it says. It's important for other reasons.
+Initial Update Text that will never appear.
+
+%test678%
+Only text after this line will appear.
