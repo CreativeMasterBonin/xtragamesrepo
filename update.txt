@@ -5,5 +5,6 @@ updatenode
 {
   "0.2.3_beta": "Misc changes and other goodies regarding internal systems and shop changes.",
   "0.2.4_beta": "Added system to get updates when they occur.",
-  "update_notes": "Added new system to get updates when they occur. Newer versions aren't displayed nor are older ones."
+  "current_release": "0.2.4_beta",
+  "future_release": "0.2.5_beta"
 }
