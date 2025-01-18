@@ -2,4 +2,6 @@ Here is an example of update text. Remember that it doesn't matter what it says.
 Initial Update Text that will never appear.
 
 0.2.4_beta
-Added new system to get updates when they occur. Newer versions aren't displayed nor are older ones.
+{
+  "update_notes": "Added new system to get updates when they occur. Newer versions aren't displayed nor are older ones."
+}
