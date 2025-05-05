@@ -5,7 +5,7 @@ updatenode
 {
   "0.2.3_beta": "Misc changes and other goodies regarding internal systems and shop changes.",
   "0.2.4_beta": "Added system to get updates when they occur.",
-  "0.2.5_beta": "Potential update",
-  "current_release": "0.2.4_beta",
-  "future_release": "0.2.5_beta"
+  "0.2.5_beta": "Language support added, along with some fixes.",
+  "current_release": "0.2.5_beta",
+  "future_release": "0.2.6_beta"
 }
