@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>The Bonin Website Feed</title>
+<link></link>
+<description>Get random updates of anything.
+A callback to those early internet days.</description>
+
+<item>
+<title>The Intro To The Feed</title>
+<link></link>
+<guid>5865da88-4019-4d32-9503-5f71ed7cdd31</guid>
+<pubDate>Thu, 17 Oct 2025 01:02:00 UTC</pubDate>
+<description>How's it going? The XML format and it's buddy feed system sure is old, yet, underused now. Let's change that by making this new feed.</description>
+</item>
+
+</channel>
+</rss>
