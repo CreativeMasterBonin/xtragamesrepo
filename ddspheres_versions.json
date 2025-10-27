@@ -1,0 +1,41 @@
+{
+    "format": {
+        "version": {
+            "major": 1,
+            "minor": 0,
+            "patch": 0,
+            "fix": 0
+        },
+        "game": {
+            "title": "ddspheres",
+            "desc": "Versions and descriptions for ddspheres"
+        }
+    },
+    "updates": {
+        "0.0.1": {
+            "name": "Initial Update",
+            "desc": "Nothing here but spheres and blocks and a deflector but we made the game at least playable",
+            "download_url": "No URL Provided"
+        },
+        "0.0.2": {
+            "name": "More Goods and Services",
+            "desc": "Powerups n' more added, along with changes",
+            "download_url": "No URL Provided"
+        },
+        "0.0.3": {
+            "name": "Menus and Stuff",
+            "desc": "Added some menus that are not ready yet",
+            "download_url": "No URL Provided"
+        },
+        "0.0.4": {
+            "name": "Shaders, Spheres and Deflectors Update",
+            "desc": "Attempting to add a new XML based system for the game, along with updating some mechanics and display features",
+            "download_url": "No URL Provided"
+        },
+        "0.0.5": {
+            "name": "The Versioning System Update",
+            "desc": "The XML system failed, so we changed it to use JSON instead, along with settings being editable and saveable",
+            "download_url": "No URL Provided"
+        }
+    }
+}
