@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- this is the header, which may change if the format is changed. DO NOT CHANGE THE HEADER TAG ORDER AND CONSTRUCTION, ONLY CHANGE THE HEADER CONTENTS -->
+<header>
+    <name lang="en">DDSpheres Version Format Header</name>
+    <format maj="1" min="0" fix="0" type="alpha">ddspheres-versions</format>
+    <creator>bcm</creator>
+</header>
+<!-- this is the information that a program can read from to describe versions that exist in a more readable form. The construction can change here if the header information is updated to a new version and program logic is changed for each header version. All header versions created MUST be readable in programming. -->
+<versions>
+    <ver num="001_alpha" rev="1">
+        <name lang="en">The first update</name>
+        <desc lang="en">Added the update fetcher, which grabs updates from an external source to provide quick updates and to tell players when an update is out.</desc>
+    </ver>
+</versions>
