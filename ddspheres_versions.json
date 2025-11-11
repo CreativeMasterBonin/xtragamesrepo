@@ -36,6 +36,21 @@
             "name": "The Versioning System Update",
             "desc": "The XML system failed, so we changed it to use JSON instead, along with settings being editable and saveable",
             "download_url": "No URL Provided"
+        },
+        "0.0.9": {
+            "name": "Initial Public Update",
+            "desc": "This is the version that appeared in public for the first time.",
+            "download_url": "https://bonin888.itch.io/dubious-deflective-spheres"
+        },
+        "0.1.0": {
+            "name": "Second Public Update",
+            "desc": "This alpha version added some minor features to improve user experience.",
+            "download_url": "https://bonin888.itch.io/dubious-deflective-spheres"
+        },
+        "0.1.1": {
+            "name": "The Control Update",
+            "desc": "Added mouse support (nearly instant movement) and pausing",
+            "download_url": "https://bonin888.itch.io/dubious-deflective-spheres"
         }
     }
 }
