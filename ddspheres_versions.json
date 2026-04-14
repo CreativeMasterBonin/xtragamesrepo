@@ -15,7 +15,7 @@
         "0.0.1": {
             "name": "Initial Update",
             "desc": "Nothing here but spheres and blocks and a deflector but we made the game at least playable",
-            "download_url": "https://theboninwebsite.wixsite.com/main"
+            "download_url": "No URL Provided"
         },
         "0.0.2": {
             "name": "More Goods and Services",
@@ -39,18 +39,31 @@
         },
         "0.0.9": {
             "name": "Initial Public Update",
-            "desc": "This is the version that appeared in public for the first time.",
+            "desc": "This is the version that appeared in public for the first time",
             "download_url": "https://bonin888.itch.io/dubious-deflective-spheres"
         },
         "0.1.0": {
             "name": "Second Public Update",
-            "desc": "This alpha version added some minor features to improve user experience.",
+            "desc": "This alpha version added some minor features to improve user experience",
             "download_url": "https://bonin888.itch.io/dubious-deflective-spheres"
         },
         "0.1.1": {
             "name": "The Control Update",
             "desc": "Added mouse support (nearly instant movement) and pausing",
             "download_url": "https://bonin888.itch.io/dubious-deflective-spheres"
+        },
+        "0.1.2": {
+            "name": "The Plus Update",
+            "desc": "Same as the Control Update but is the name given to the article (minor bug fixes and such)",
+            "download_url": "https://bonin888.itch.io/dubious-deflective-spheres/devlog/1119825/the-plus-update"
+        },
+        "1.0.0": {
+            "name": "The Gold & Silver Update",
+            "desc": "Gold and silver powerups added, along with a rotated blocks level feature that will appear from time to time",
+            "download_url": "https://bonin888.itch.io/dubious-deflective-spheres/devlog/1473751/100-update-incoming"
         }
     }
 }
+
+
+
